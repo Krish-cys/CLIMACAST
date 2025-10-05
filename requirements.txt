@@ -1,5 +1,8 @@
 streamlit
+folium
+streamlit-folium
 xarray
+pandas
 matplotlib
-numpy
-netCDF4
+plotly
+statsmodels
